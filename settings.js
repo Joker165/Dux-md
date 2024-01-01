@@ -3,10 +3,10 @@ const fs = require("fs")
 
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -21,28 +21,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['2347082252014'] //ur owner number
-global.ownernomer = "2347082252014" //ur owner number2
-global.ownername = "Quadhir" //ur owner name
+global.owner = ['2348022159244'] //ur owner number
+global.ownernomer = "2348022159244" //ur owner number2
+global.ownername = "🐍𝐀𝐍𝐓𝐈𝐒𝐎𝐂𝐈𝐀𝐋 𝐇𝐔𝐌𝐈𝐃𝐈𝐓𝐘—𝐈𝐊𝐀𝐇🐍" //ur owner name
 global.ytname = "YT: Duxbot6413" //ur yt chanel name
 global.socialm = "GitHub: Duxlin" //ur github or insta name
 global.location = "Nigeria, Lagos" //ur location
 
 //new
-global.botname = "Dux Bot MD"
-global.ownernumber = '2347082252014'
-global.ownername = '𝐈𝐌𝐌𝐎𝐑𝐓𝐀𝐋 𝐃𝐔𝐗'
-global.ownerNumber = ["2347082252014@s.whatsapp.net"]
+global.botname = "🐍•𝐀𝐍𝐓𝐈𝐒𝐎𝐂𝐈𝐀𝐋 𝐁𝐎𝐓•🐍"
+global.ownernumber = '233246274343'
+global.ownername = '🐍𝐀𝐍𝐓𝐈𝐒𝐎𝐂𝐈𝐀𝐋 𝐇𝐔𝐌𝐈𝐃𝐈𝐓𝐘—𝐈𝐊𝐀𝐇🐍'
+global.ownerNumber = ["2348022159244@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@Duxlin"
 global.websitex = "https://youtu.be/duxbot6414"
-global.wagc = "https://chat.whatsapp.com/HQT3QOoiQjG4AIcM3l0xYi/"
-global.themeemoji = '🪀'
+global.wagc = "https://chat.whatsapp.com/Go4drrshNlf5v5SAIyQ535"
+global.themeemoji = '🐍'
 global.wm = "Dux Bot Inc."
 global.botscript = 'https://github.com/Duxlin/Dux-md' //script link
-global.packname = "Sticker By 𝐈𝐦𝐦𝐨𝐫𝐭𝐚𝐥 𝐃𝐮𝐱"
-global.author = "𝐈𝐦𝐦𝐨𝐫𝐭𝐚𝐥 𝐃𝐮𝐱\n\n+2347082252014"
-global.creator = "2347082252014@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.packname = "🐍•𝐀𝐍𝐓𝐈𝐒𝐎𝐂𝐈𝐀𝐋"
+global.author = "—𝐁𝐎𝐓•🐍\n\n"
+global.creator = "233246274343@s.whatsapp.net"
+global.prefa = ['','!','.','#','🐍']
 global.sessionName = 'session'
 global.hituet = 0
 
